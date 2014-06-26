@@ -24,7 +24,7 @@
         }
     ],
     "dependencies": {
-        "rai": "~0.1.11",
+        "rai": "git://github.com/jboga/rai.git#handleErrDestroy",
         "xoauth2": "~0.1.8"
     },
     "devDependencies": {
